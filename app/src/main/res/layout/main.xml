@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#151c25"
+
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context=".Main">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_marginBottom="@dimen/view_margin"
+        android:layout_above="@id/hidden">
+
+
+        <ImageView
+            android:id="@+id/hidden"
+            android:layout_width="match_parent"
+            android:layout_height="540dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/facey" />
+
+        <ScrollView
+            android:layout_width="0dp"
+            android:layout_height="54dp"
+            android:layout_marginLeft="@dimen/view_marginLeftScroll"
+            >
+
+        </ScrollView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/button_enabled_background"
+            android:text="@string/detection"
+            android:layout_marginTop="@dimen/view_marginTop"
+            android:onClick="detection"
+            style="@style/ButtonStyle" />
+
+    </LinearLayout>
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/view_marginAID"
+        android:layout_marginRight="@dimen/view_margin"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="9dp"
+        android:layout_marginBottom="5dp"
+        android:text="No matter what mood you’re in, there’s music to match.Sometimes it might be hard to identify the right playlist for precisely how you’re feeling—so let us do the work for you !"/>
+</LinearLayout>
