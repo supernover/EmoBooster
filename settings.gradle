@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "EmoBooster"
 include ':app'
+include ':app-remote-lib'

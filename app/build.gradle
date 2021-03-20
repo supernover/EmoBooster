@@ -47,6 +47,18 @@ dependencies {
 
 
 
+    //Face  Api
     implementation 'com.microsoft.projectoxford:face:1.4.4'
+
+    //spotify libs
+    implementation project(':app-remote-lib')
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    //https
+    implementation files('libs/commons-logging-4.0.6.jar')
+    implementation files('libs/httpclient-4.5.13.jar')
+    implementation files('libs/httpcore-4.4.14.jar')
+
+
 
 }

@@ -15,8 +15,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:orientation="horizontal"
-        android:layout_marginBottom="@dimen/view_margin"
-        android:layout_above="@id/hidden">
+        android:layout_marginBottom="@dimen/view_margin">
 
 
         <ImageView
