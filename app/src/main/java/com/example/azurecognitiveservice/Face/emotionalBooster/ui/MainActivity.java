@@ -153,6 +153,9 @@ public class MainActivity extends AppCompatActivity {
                     true,       /* Whether to return face landmarks */
                         /* Which face attributes to analyze, currently we support:
                            age,gender,headPose,smile,facialHair */
+
+
+
                     new FaceServiceClient.FaceAttributeType[] {
                             FaceServiceClient.FaceAttributeType.Age,
                             FaceServiceClient.FaceAttributeType.Gender,
@@ -253,20 +256,24 @@ public class MainActivity extends AppCompatActivity {
         Random r = new Random();
         return keysAsArray.get(r.nextInt(map.size()));
     }
+
+
+
+    //importing  playlist  https://open.spotify.com/
+
     private void populateArrayLists() {
-        anxiousFearPlaylists.put("37i9dQZF1DX4sWSpwq3LiO"  ,"Peaceful Piano"     );
-        anxiousFearPlaylists.put("37i9dQZF1DX3Ogo9pFvBkY"  ,"Ambient Chill"     );
-        anxiousFearPlaylists.put("37i9dQZF1DXcCnTAt8CfNe"  ,"Musical Therapy"     );
-        anxiousFearPlaylists.put("7A2YimOfIrmAWkCeSIY8Rq"  ,"Calm Classics"     );
-        anxiousFearPlaylists.put("37i9dQZF1DWU0ScTcjJBdj"  ,"Relax & Unwind"     );
-        anxiousFearPlaylists.put("37i9dQZF1DX3PIPIT6lEg5"  ,"Microtherapy"     );
-        anxiousFearPlaylists.put("37i9dQZF1DX1s9knjP51Oa"  ,"Calm Vibes"     );
-        anxiousFearPlaylists.put("37i9dQZF1DXa9xHlDa5fc6"  ,"License to Chill"     );
-        anxiousFearPlaylists.put("37i9dQZF1DWTkxQvqMy4WW"  ,"Chillin' on a Dirt Road"     );
-        anxiousFearPlaylists.put("37i9dQZF1DX8ymr6UES7vc"  ,"Rain Sounds"     );
-        anxiousFearPlaylists.put("37i9dQZF1DWZqd5JICZI0u"  ,"Peaceful Meditation"     );
+
+
+
+
+
 
         happyPlaylists.put("46pGanI4seRyXHzc1b7GDn","Mood Booster");
+        happyPlaylists.put("37i9dQZF1DX3rxVfibe1L0","Mood Booster");
+        happyPlaylists.put("37i9dQZF1DX6mvEU1S6INL","You & Me");
+
+
+
         happyPlaylists.put("37i9dQZF1DX7KNKjOK0o75","Have a Great Day!");
         happyPlaylists.put("37i9dQZF1DWYBO1MoTDhZI","Good Vibes");
         happyPlaylists.put("37i9dQZF1DXdPec7aLTmlC","Happy Hits");
@@ -280,12 +287,28 @@ public class MainActivity extends AppCompatActivity {
         sadPlaylists.put("37i9dQZF1DX3YSRoSdA634","Life Sucks");
         sadPlaylists.put("37i9dQZF1DWSqBruwoIXkA","Down in the Dumps");
         sadPlaylists.put("37i9dQZF1DWVV27DiNWxkR","Melancholia");
+        sadPlaylists.put("37i9dQZF1DXaLvcwjNfHBR","Breaking Hits");
+        angerPlaylists.put("37i9dQZF1DXarRysLJmuju","Pop All Day");
+
+
 
         angerPlaylists.put("37i9dQZF1DWU6kYEHaDaGA","Unleash the Fury");
         angerPlaylists.put("37i9dQZF1DWWJOmJ7nRx0C","Rock Hard");
         angerPlaylists.put("5s7Sp5OZsw981I2OkQmyrz","Rage Quit");
         angerPlaylists.put("37i9dQZF1DWTcqUzwhNmKv","Kickass Metal");
         angerPlaylists.put("37i9dQZF1DWXIcbzpLauPS","Metalcore");
+        anxiousFearPlaylists.put("37i9dQZF1DX4sWSpwq3LiO"  ,"Peaceful Piano"     );
+        anxiousFearPlaylists.put("37i9dQZF1DX3Ogo9pFvBkY"  ,"Ambient Chill"     );
+        anxiousFearPlaylists.put("37i9dQZF1DXcCnTAt8CfNe"  ,"Musical Therapy"     );
+        anxiousFearPlaylists.put("7A2YimOfIrmAWkCeSIY8Rq"  ,"Calm Classics"     );
+        anxiousFearPlaylists.put("37i9dQZF1DWU0ScTcjJBdj"  ,"Relax & Unwind"     );
+        anxiousFearPlaylists.put("37i9dQZF1DX3PIPIT6lEg5"  ,"Microtherapy"     );
+        anxiousFearPlaylists.put("37i9dQZF1DX1s9knjP51Oa"  ,"Calm Vibes"     );
+        anxiousFearPlaylists.put("37i9dQZF1DXa9xHlDa5fc6"  ,"License to Chill"     );
+        anxiousFearPlaylists.put("37i9dQZF1DWTkxQvqMy4WW"  ,"Chillin' on a Dirt Road"     );
+        anxiousFearPlaylists.put("37i9dQZF1DX8ymr6UES7vc"  ,"Rain Sounds"     );
+        anxiousFearPlaylists.put("37i9dQZF1DWZqd5JICZI0u"  ,"Peaceful Meditation"     );
+
 
     }
 
@@ -329,7 +352,7 @@ public class MainActivity extends AppCompatActivity {
         {
             emotionValue = emotion.happiness;
             emotionType = "Happiness";
-            m_PlaylistMessage = "Heck yeah let's keep the happy feelings going; ";
+            m_PlaylistMessage = "Get happy with today's dose of feel-good songs!; ";
             m_playlistID = pickRandomPlaylist(happyPlaylists);
             m_PlaylistName = happyPlaylists.get(m_playlistID);
         }
