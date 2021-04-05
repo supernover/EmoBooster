@@ -57,7 +57,7 @@ The Emotional booster is used to fetch the image from pictures taken directly by
 - I also learned new languages like JavaFX ,CSS 
 - Being able to understand Artificial intelligence concepts
 
-## What's next for Emotional Pills
+## What's next for Emotional Booster player
 -  EBP It is not only  made it  for  boosting emotions through musics , I will also add another different type of content like boosting Emotions through a comedy ,movies ,...etc. 
 - I will also add  playing  a Youtube videos playlist based on the emotion detected 
 - I plan on making it available to baby  ,it will do the work of babysitting like making tune Playlist for baby when he/she cry ,smile , sleep and  automatic messages to her mother.
