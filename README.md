@@ -1,6 +1,10 @@
 ## Buy me a coffee ! 
 ![Screenshot](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png) 
+
+
              To
+             
+             
 iradukundadidier2@gmail.com
 
 
@@ -86,7 +90,7 @@ The Emotional booster is used to fetch the image from pictures taken directly by
 ## License 
 
 
-   Copyright 2020 Didier iradukunda
+   Copyright 2021 Didier iradukunda
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
