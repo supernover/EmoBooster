@@ -1,11 +1,9 @@
 ## Buy me a coffee ! 
+
 ![Screenshot](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png) 
 
 
-             To
-             
-             
-iradukundadidier2@gmail.com
+             To iradukundadidier2@gmail.com
 
 
 ## Intro
