@@ -11,6 +11,11 @@ So according to Many therapists and doctors  shows that Listening to music also 
 
 that is the reason why I decided to take risk for realizing this app with tools given to us by Microsoft Azure, namely facial recognition and speech sentiment recognition  
 
+## screen shots 
+
+![Screenshot](gallery.jpg)
+![Screenshot](gallery(4).jpg)
+
 
 
 ## What it does
