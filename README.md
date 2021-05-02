@@ -1,3 +1,5 @@
+## Buy me a coffee ! 
+![Screenshot](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png)
 Sometimes it might be hard to identify the right playlist for precisely how you’re feeling. Emotional booster player  is here to help determine your mood and provide a playlist suggestion on Spotify !
 ## Inspiration
 these days **depression**  is one of the biggest health risks of today's society means that Depression is a common illness worldwide According to  this  World Health organization page (https://www.who.int/news-room/fact-sheets/detail/depression) 
