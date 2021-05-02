@@ -1,5 +1,10 @@
 ## Buy me a coffee ! 
-![Screenshot](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png) iradukundadidier2@gmail.com
+![Screenshot](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png) 
+             To
+iradukundadidier2@gmail.com
+
+
+## Intro
 
 Sometimes it might be hard to identify the right playlist for precisely how you’re feeling. Emotional booster player  is here to help determine your mood and provide a playlist suggestion on Spotify !
 ## Inspiration
