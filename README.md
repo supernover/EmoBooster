@@ -14,7 +14,7 @@ that is the reason why I decided to take risk for realizing this app with tools 
 ## screen shots 
 
 ![Screenshot](gallery.jpg)
-![Screenshot](gallery(4).jpg)
+![Screenshot](gallery%20(4).jpg)
 
 
 
