@@ -15,6 +15,10 @@ that is the reason why I decided to take risk for realizing this app with tools 
 
 ![Screenshot](gallery.jpg)
 ![Screenshot](gallery%20(4).jpg)
+![Screenshot](gallery%20(3).jpg)
+![Screenshot](gallery%20(1).jpg)
+![Screenshot](gallery%20(2).jpg)
+
 
 
 
