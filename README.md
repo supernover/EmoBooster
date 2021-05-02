@@ -3,7 +3,7 @@
 ![Screenshot](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png) 
 
 
-             To iradukundadidier2@gmail.com
+    iradukundadidier2@gmail.com
 
 
 ## Intro
