@@ -4,6 +4,13 @@
 
 
     iradukundadidier2@gmail.com
+    
+    
+## Awarded
+
+    Azure AI Hackathon
+![Screenshot](Capture.PNG)
+
 
 
 ## Intro
