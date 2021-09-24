@@ -1,9 +1,4 @@
 ## Buy me a coffee ! 
-
-![Screenshot](https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png) 
-
-
-    iradukundadidier2@gmail.com
     
     
 ## Awarded
